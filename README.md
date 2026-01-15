@@ -3,7 +3,7 @@
 [![CI](https://github.com/SymfonyCasts/verify-email-bundle/actions/workflows/ci.yaml/badge.svg)](https://github.com/SymfonyCasts/verify-email-bundle/actions/workflows/ci.yaml)
 
 Don't know if your users have a valid email address? The VerifyEmailBundle can
-help! 
+help! test
 
 VerifyEmailBundle generates - and validates - a secure, signed URL
 that can be emailed to users to confirm their email address. It
